@@ -1,3 +1,11 @@
+// Del 3 // Funksjoner
+
+// Oppgave 1
+
+/*
+Funksjoner kan lages for å gjøre spesifikke ting og brukes om igjen, 
+slik at man slipper å skrive samme kode flere ganger.
+*/
 
 // Oppgave 2
 

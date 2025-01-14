@@ -2,7 +2,7 @@
 
 // Oppgave 1
 
-// Å lage en variabel
+// Å deklarere en variabel betyr å lage en variabel
 
 // exempel
 let alder;
@@ -56,4 +56,4 @@ let  Undef;
 console.log(Undef);
 
 let noll = null;
-console.log(null)
+console.log(null);
