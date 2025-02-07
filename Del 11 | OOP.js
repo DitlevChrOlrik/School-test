@@ -89,3 +89,26 @@ console.log(biler);
 ]
   
 // Oppgave 5
+
+function generateCarFactory(merke) {
+  return function (set, hp, model, type) {
+    return {
+      seter: set,
+      hestekrefter: hp,
+      modell: model,
+      biltype: type,
+      merke: merke
+    };
+  };
+}
+
+let fordCarFactory = generateCarFactory("Ford");
+
+let fordBiler = [
+  fordCarFactory(5, 200, "Sedan", "Sedan"),
+  fordCarFactory(7, 250, "SUV", "SUV"),
+  fordCarFactory(5, 180, "Stasjonsvogn", "Stasjonsvogn"),
+  fordCarFactory(4, 220, "Coupe", "Coupe")
+];
+
+console.log(fordBiler);

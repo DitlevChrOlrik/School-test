@@ -1,4 +1,4 @@
-// Del 7 | Arrays
+// Del 7 A | Arrays
 
 // Oppgave 1
 
