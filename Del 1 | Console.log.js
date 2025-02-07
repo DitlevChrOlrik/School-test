@@ -1,4 +1,4 @@
-// Del 1
+// Del 1 | Console.log
 
 // Oppgave 1
 

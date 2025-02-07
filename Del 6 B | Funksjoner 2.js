@@ -1,4 +1,4 @@
-// del 6b // funksjoner 2
+// del 6b | funksjoner 2
 
 // Oppgave 1
 // return brukes for å sende en verdi fra en funksjon til der den blir kalt.

@@ -1,4 +1,4 @@
-// Del 5 // bool og evaluering
+// Del 5 | Boolske Verdier
 
 // Oppgave 1
 

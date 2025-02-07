@@ -1,4 +1,4 @@
-// del 2 // Variabler
+// del 2 | Variabler
 
 // Oppgave 1
 

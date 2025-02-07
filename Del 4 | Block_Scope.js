@@ -1,4 +1,4 @@
-// Del 4 // Block/scope
+// Del 4 | Block_scope
 
 // Oppgave 1
 

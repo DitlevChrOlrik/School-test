@@ -1,4 +1,4 @@
-// Del 3 // Funksjoner
+// Del 3 | Funksjoner
 
 // Oppgave 1
 

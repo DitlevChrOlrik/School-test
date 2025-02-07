@@ -1,0 +1,1 @@
+// Del 10 | Pilfunksjoner

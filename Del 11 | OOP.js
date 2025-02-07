@@ -1,4 +1,4 @@
-// Del 10
+// Del 11 | OOP
 
 // Oppgave 1
 

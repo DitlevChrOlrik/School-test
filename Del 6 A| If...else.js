@@ -1,4 +1,4 @@
-// del 6 // If...else
+// del 6 | If...else
 
 // Oppgave 1
 let a = 1;
