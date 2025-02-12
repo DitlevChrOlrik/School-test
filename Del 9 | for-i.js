@@ -36,7 +36,7 @@ let navn2 = [
     ];
 
 
-
+// A    
 
 function teller(name, array) {
     let count = 0;
@@ -45,8 +45,11 @@ function teller(name, array) {
             count++;
         }
     }
-    return count;
+    console.log(`${name} er oppført ${count} ganger i arrayen som er ${array.length} lang.`);
 }
 
 console.log(teller("Anne", navn2));
 console.log(teller("Ole", navn2));
+
+// B
+
